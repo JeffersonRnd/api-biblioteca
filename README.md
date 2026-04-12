@@ -116,7 +116,3 @@ Al crear un préstamo, el campo `disponibles` del libro se descuenta automática
 - **Base de datos:** [Railway](https://railway.app) — MySQL en la nube
 
 ---
-
-## 👤 Autor
-
-Jefferson — [@JeffersonRnd](https://github.com/JeffersonRnd)
