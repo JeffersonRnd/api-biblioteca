@@ -16,25 +16,6 @@ API REST para gestionar una biblioteca pequeña. Permite administrar libros, usu
 - **MySQL** (local) / **Railway** (producción)
 - **Render** para el despliegue
 
----
-
-## 📁 Estructura
-
-```
-api-biblioteca/
-├── src/
-│   ├── controllers/
-│   ├── routes/
-│   ├── models/
-│   ├── config/
-│   │   └── database.js
-│   └── app.js
-├── server.js
-├── package.json
-└── .env
-```
-
----
 
 ## ⚙️ Instalación local
 
